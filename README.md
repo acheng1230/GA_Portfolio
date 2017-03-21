@@ -12,4 +12,4 @@ General Assembly Portfolio
 - Project 6: Pseudo Wikipedia API
 - Project 7: Airport Delays
 
-At General Assembly, I completed 7 comprehensive projects that demonstrate my skill sets and understanding of data science and machine learning on real world problems. Each project folder contains a separate README.md, which serves as a primer for how I approached the project and its outcomes.  
+At General Assembly, I completed 7 comprehensive projects that showcase my understanding of data science and machine learning on real world problems. Each project folder contains a separate README.md, which serves as a primer for how I approached the project and its outcomes.  
