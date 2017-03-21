@@ -38,5 +38,6 @@ Thumbs.db
 
 # Data Science #
 ################
-.ipynb_checkpoints
-*.pyc
+*/.ipynb_checkpoints
+*/.DS_Store
+*/lib/*.pyc
