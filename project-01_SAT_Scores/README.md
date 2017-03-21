@@ -3,9 +3,7 @@
 Project 1: SAT Scores
 ----
 ### Overview 
-SAT scores can make a significant contribution to admissions decisions when colleges, universities, and systems of higher education use them properly. The College Board provides yearly SAT data ontrends and changes in scores to help high schools interpret and understand students' participation and performance and to support the effective use of the SAT in admissions decisions.
-
-In this challenge, explore the data to investigate any interesting relationships and describe the data. Visualize your results.
+SAT scores can make a significant contribution to admissions decisions when colleges, universities, and systems of higher education use them properly. The College Board provides yearly SAT data ontrends and changes in scores to help high schools interpret and understand students' participation and performance and to support the effective use of the SAT in admissions decisions. In this challenge, explore the data to investigate any interesting relationships and describe the data. Visualize your results.
 
 ## Data
 
