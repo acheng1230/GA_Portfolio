@@ -1,5 +1,5 @@
-**/*.swp
-**/Untitled.ipynb
+.DS_Store
+.ipynb_checkpoints/*
+ipynb/.ipynb_checkpoints/*
 **/*.pyc
-**/.ipynb_checkpoints/*
-**/.DS_Store
+**/*.swp
