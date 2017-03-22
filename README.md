@@ -12,4 +12,14 @@ General Assembly Portfolio
 - Project 6: Pseudo Wikipedia API
 - Project 7: Airport Delays
 
-At General Assembly, I completed 7 comprehensive projects that showcase my understanding of data science and machine learning on real world problems. Each project folder contains a separate README.md, which serves as a primer for how I approached the project and its outcomes.  
+At General Assembly, I completed 7 comprehensive projects that showcase my understanding of data science and machine learning on real world problems. Each project folder contains a separate README.md, which serves as a primer for how I approached the project and its outcomes.
+
+## Skills
+
+- Project 1: Exploratory Data Analysis, Data Visualization
+- Project 2: Data Cleaning/Munging, Summary Statistics
+- Project 3: Expoloratory Data Analysis, Pivot Tables, Linear Regression
+- Project 4: Logistic Regression with StatsModels and Sci-Kit Learn
+- Project 5: Feature Selection, Logistic Regression, KNearest Neighbors, GridSearchCV
+- Project 6: SQL/PostgreSQL, Extract Transform Load (ETL), TF-IDF
+- Project 7: Principal Component Analysis, KMeans Clustering

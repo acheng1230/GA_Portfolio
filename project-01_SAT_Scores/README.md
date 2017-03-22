@@ -3,9 +3,13 @@
 Project 1: SAT Scores
 ----
 ### Overview 
-SAT scores can make a significant contribution to admissions decisions when colleges, universities, and systems of higher education use them properly. The College Board provides yearly SAT data ontrends and changes in scores to help high schools interpret and understand students' participation and performance and to support the effective use of the SAT in admissions decisions. In this challenge, explore the data to investigate any interesting relationships and describe the data. Visualize your results.
+This week in class we went over some basic statistics, learned some Python programming concepts, and also learned how to navigate files, packages, and libraries using the command line. Great start! At this point you should be chomping at the bit to do some Data Science. If so, good - because it's time for Project 1!
+
+For our first project, we're going to take a look at SAT scores around the United States. We'll be exploring this data to see what we can learn using the descriptive statistics skills covered this week. Your client, the College Board, is expecting some pretty graphs to add to their presentations this year, so don't let them down!
 
 ## Data
+
+This data, taken from the College Board, gives the mean SAT math and verbal scores, and the participation rate for each state and the District of Columbia for the year 2001.
 
 - sat_scores.csv
 
