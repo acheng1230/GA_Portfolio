@@ -14,12 +14,12 @@ General Assembly Portfolio
 
 At General Assembly, I completed 7 comprehensive projects that showcase my understanding of data science and machine learning on real world problems. Each project folder contains a separate README.md, which serves as a primer for how I approached the project and its outcomes.
 
-## Skills
+## Topics Covered
 
-- Project 1: Exploratory Data Analysis, Data Visualization
-- Project 2: Data Cleaning/Munging, Summary Statistics
-- Project 3: Expoloratory Data Analysis, Pivot Tables, Linear Regression
-- Project 4: Logistic Regression with StatsModels and Sci-Kit Learn
-- Project 5: Feature Selection, Logistic Regression, KNearest Neighbors, GridSearchCV
-- Project 6: SQL/PostgreSQL, Extract Transform Load (ETL), TF-IDF
-- Project 7: Principal Component Analysis, KMeans Clustering
+- P1: Exploratory Data Analysis, Data Visualization
+- P2: Data Cleaning/Munging, Summary Statistics
+- P3: Expoloratory Data Analysis, Pivot Tables, Linear Regression
+- P4: Logistic Regression with StatsModels and Sci-Kit Learn
+- P5: Feature Selection, Logistic Regression, KNearest Neighbors, GridSearchCV
+- P6: SQL/PostgreSQL, Extract Transform Load (ETL), TF-IDF
+- P7: Principal Component Analysis, KMeans Clustering
